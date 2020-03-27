@@ -1,5 +1,7 @@
 package com.example.coronavirustracker.models;
 
+//Author : Sayeed Nadeem
+
 public class LocationStats {
 	
 	private String state;
